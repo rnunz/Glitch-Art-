@@ -1,2 +1,2 @@
-simple command-line tool that creates visual artifacts in a image.
+Simple command-line tool that creates visual artifacts in a image.
 
